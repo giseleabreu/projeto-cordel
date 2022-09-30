@@ -76,7 +76,7 @@ section.imagem { /*configuração generica da area imagem*/
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.469);
     background-size: cover;
     background-attachment: fixed;
-    min-width: 400px;
+   
 }
 
 
